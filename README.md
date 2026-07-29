@@ -46,6 +46,12 @@ The application will run at:
 http://localhost:3000
 ```
 
+## Screenshots
+
+### Profile Page
+
+![Profile Page](assets/screenshots/profile-page.png)
+
 ## Note
 
 This repository contains only my individual frontend contribution. The complete Echo blogging platform was developed collaboratively by a team as part of the course project.
