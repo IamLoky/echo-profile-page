@@ -18,6 +18,13 @@ This repository contains my frontend contribution to **Echo**, a collaborative b
 - HTML5
 - CSS3
 
+## Features
+
+- Responsive profile page
+- Reusable React components
+- Modular CSS organization
+- Clean component hierarchy
+
 ## Project Structure
 
 ```
