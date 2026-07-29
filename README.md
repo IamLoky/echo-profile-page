@@ -50,7 +50,7 @@ http://localhost:3000
 
 ### Profile Page
 
-![Profile Page](assets/screenshots/profile-page.png)
+![Profile Page](assets/screenshots/Screenshot_29-7-2026_85641_.jpeg)
 
 ## Note
 
